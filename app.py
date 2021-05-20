@@ -50,8 +50,8 @@ def main():
         
     except:
 
-        intromsg = '''Hey  there, welcome to the LifeLine Bot for FE's .
-    Instruction: Well its's a bot so he will only accept the aproppriate command don't say hi hello and all this
+        intromsg = '''Hey  there, welcome to the LifeLine Bot for FE's.Created by the Moiz&Salman.
+    Instruction: Well its's a bot so he will only accept the aproppriate command don't say hi hello and all this just type the corressponding Numbers 
         Enter the Following Number to oprate the commands
         1.Lecture Time Table
         2.Exam Time Table
