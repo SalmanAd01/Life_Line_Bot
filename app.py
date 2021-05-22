@@ -13,7 +13,7 @@ def main():
 
         if int(msg) in range(1, 16):
             useroutput= {
-                1: "Lecture Time Table\n https://drive.google.com/file/d/1LaB82u7tHmSEj6kutteyXdEzMpcshyHX/view?usp=drivesdk",
+                1: "Lecture Time Table\n https://drive.google.com/file/d/17zqFTseiq5lLJxePfXqpPCzHIkiXloZz/view?usp=drivesdk",
                 2: "exam time table has not come yet",
 
 
