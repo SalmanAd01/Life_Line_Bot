@@ -42,7 +42,7 @@ def main():
                 14: "Microsoft Teams:\nhttps://www.microsoft.com/en-in/campaign/small-and-medium-business/Teams.aspx?utm_source=search&utm_medium=cpc&utm_campaign=microsoft_teams_brand&utm_term=teams&utm_content=responsive_text_ads&gclid=CjwKCAjwy42FBhB2EiwAJY0yQpsCRFuDHua_uPXMCIzeKnG8d0Z57a9zeUxlldLI9vZrDpZvarPDLxoCug8QAvD_BwE",
 
                 15: "Outlook: \nhttps://outlook.live.com/owa/",
-                16: "Lab Mauals\n1.Engineering Chemistry2\nhttps://drive.google.com/file/d/17xoOH9qfrjb5yDh4c0qo56XoF0KmqX5O/view?usp=drivesdk\n2.Engineering Graphics\na.Component 2\nhttps://siescms-my.sharepoint.com/:b:/g/personal/onkarp_sies_edu_in/EasO8R70OxdGi4UI7jcPMgMBryfJ7K4oWt1mGKZ4G6WDrQ\nb.Component 1\nhttps://siescms-my.sharepoint.com/:b:/g/personal/onkarp_sies_edu_in/ESR-IRy4159Np2BteVbbo_MBluRusiXsh6huUmYFLqV1Lw",
+                16: "Lab Mauals\n1.Engineering Chemistry2\na.Practicle 1 Corrosion\nhttps://drive.google.com/file/d/17xoOH9qfrjb5yDh4c0qo56XoF0KmqX5O/view?usp=drivesdk\n2.Engineering Graphics\na.Component 2\nhttps://siescms-my.sharepoint.com/:b:/g/personal/onkarp_sies_edu_in/EasO8R70OxdGi4UI7jcPMgMBryfJ7K4oWt1mGKZ4G6WDrQ\nb.Component 1\nhttps://siescms-my.sharepoint.com/:b:/g/personal/onkarp_sies_edu_in/ESR-IRy4159Np2BteVbbo_MBluRusiXsh6huUmYFLqV1Lw",
             }
 
             main_msg_output = MessagingResponse()
