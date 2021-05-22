@@ -11,7 +11,7 @@ def main():
 
     try:
 
-        if int(msg) in range(1, 16):
+        if int(msg) in range(1, 17):
             useroutput= {
                 1: "Lecture Time Table\n https://drive.google.com/file/d/17zqFTseiq5lLJxePfXqpPCzHIkiXloZz/view?usp=drivesdk",
                 2: "exam time table has not come yet",
@@ -42,6 +42,7 @@ def main():
                 14: "Microsoft Teams:\nhttps://www.microsoft.com/en-in/campaign/small-and-medium-business/Teams.aspx?utm_source=search&utm_medium=cpc&utm_campaign=microsoft_teams_brand&utm_term=teams&utm_content=responsive_text_ads&gclid=CjwKCAjwy42FBhB2EiwAJY0yQpsCRFuDHua_uPXMCIzeKnG8d0Z57a9zeUxlldLI9vZrDpZvarPDLxoCug8QAvD_BwE",
 
                 15: "Outlook: \nhttps://outlook.live.com/owa/",
+                16: "Lab Mauals\n1.Engineering Chemistry2\nhttps://drive.google.com/file/d/17xoOH9qfrjb5yDh4c0qo56XoF0KmqX5O/view?usp=drivesdk\n2.Engineering Graphics\na.Component 2\nhttps://siescms-my.sharepoint.com/:b:/g/personal/onkarp_sies_edu_in/EasO8R70OxdGi4UI7jcPMgMBryfJ7K4oWt1mGKZ4G6WDrQ\nb.Component 1\nhttps://siescms-my.sharepoint.com/:b:/g/personal/onkarp_sies_edu_in/ESR-IRy4159Np2BteVbbo_MBluRusiXsh6huUmYFLqV1Lw",
             }
 
             main_msg_output = MessagingResponse()
@@ -67,7 +68,8 @@ def main():
         12.Viva Questions
         13.Virtual Lab
         14.Microsoft Teams
-        15.Outlook'''
+        15.Outlook
+        16.Lab Manuals'''
         main_msg = MessagingResponse()
         main_msg.message(intromsg)
         return str(main_msg)
