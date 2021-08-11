@@ -8,3 +8,7 @@
 - After Sending This You Will Get This Message Which Simply Tell That You Are Connected To The Bot
 
 ![WhatsApp Image 2021-08-11 at 11 11 00 AM](https://user-images.githubusercontent.com/80933048/128975605-7c40fdd2-34f4-4c2f-a8bb-310fcff8c852.jpeg)
+- Now Say Hi To The Bot It'll List All The Commands
+
+![WhatsApp Image 2021-08-11 at 11 14 08 AM](https://user-images.githubusercontent.com/80933048/128975835-24b89a39-71b2-4846-8c0c-87edf8f1c265.jpeg)
+
