@@ -40,3 +40,8 @@
 ```
 ![WhatsApp Image 2021-08-11 at 11 24 35 AM](https://user-images.githubusercontent.com/80933048/128976789-de3aa80f-5c32-411e-a063-ce779ebb988f.jpeg)
 
+## Contributor
+<a href="https://github.com/TechBoyy6">
+  <img src="https://avatars.githubusercontent.com/u/73435031?s=50&v=4">
+</a>
+
