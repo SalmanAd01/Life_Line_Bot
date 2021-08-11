@@ -1,5 +1,22 @@
 # Life_Line_Bot
 - Hey, It's A WhatsApp Bot Made Specially For The First Year Students Of Mumbai University With The Help Of Which You Can Do Lots Of Stuff And This Will Definitely Gonna Save Your Time.
+
+## Badges
+
+
+[![WhatsAppBot](https://img.shields.io/badge/WhatsApp-Bot-blue)](https://api.whatsapp.com/send?phone=+14155238886&text=join%20joined-plastic)
+
+[![Twillo](https://img.shields.io/badge/Twillo-Sandbox-blue)](https://www.twilio.com/)
+
+[![Heroku](https://img.shields.io/badge/Heroku-Hosting-blue)](https://www.heroku.com/)
+
+[![Python](https://img.shields.io/badge/Python-v3.9.6-blue)](https://www.python.org/downloads/)
+
+![Twitter](https://img.shields.io/twitter/url?color=Black&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdhikariSalman%3Fs%3D09) 
+ 
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue)](https://www.linkedin.com/in/salman-adhikari-a938911bb)
+
+
 ## How To Use
 - Click On The Link : https://api.whatsapp.com/send?phone=+14155238886&text=join%20joined-plastic
 - Now Just Send That Automatically Generated Message (Which is Actully The Token Of My Twillo SandBox) 
